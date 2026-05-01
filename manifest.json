@@ -1,5 +1,5 @@
 {
-   "manifest_version": 1,
+   "manifest_version": 3,
   "name": "De-Rad",
   "version": "1.0",
  "description": "plugin designed to block political content",
